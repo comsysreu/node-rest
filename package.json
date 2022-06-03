@@ -1,0 +1,23 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comsysreu/node-rest.git"
+  },
+  "author": "Carlos Gómez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comsysreu/node-rest/issues"
+  },
+  "homepage": "https://github.com/comsysreu/node-rest#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "0.0.1-security"
+  }
+}
